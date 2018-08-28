@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/JNZH95aXNXo
+slides_url: https://docs.google.com/presentation/d/1xScnw2Ij4elMvbK7CMxs7ffkZRZH4N2mYPszAKKB3ag/edit?usp=sharing
 layout: talk
 recordingconsent: true
 talkid: 45252
